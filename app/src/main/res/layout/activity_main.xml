@@ -31,5 +31,21 @@
         android:layout_height="120dp"
 
         />
+    <Button
+        android:layout_width="100dp"
+        android:layout_height="120dp"
+
+        />
+    <Button
+        android:layout_width="100dp"
+        android:layout_height="120dp"
+
+        />
+    <Button
+        android:layout_width="100dp"
+        android:layout_height="120dp"
+
+        />
+
 
 </LinearLayout>
