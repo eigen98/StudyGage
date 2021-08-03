@@ -9,6 +9,11 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.StudyGage">
+        <activity android:name=".Timer"></activity>
+        <activity android:name=".Community_Activity" />
+        <activity android:name=".StudyInfo_Activity" />
+        <activity android:name=".SignUp_Activity" />
+        <activity android:name=".gps_Activity" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
